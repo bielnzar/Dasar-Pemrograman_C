@@ -1,4 +1,4 @@
-# Dasar-Pemrograman-C
+# Dasar Pemrograman Bahasa C
 
 Abdi Pesantren CSSMoRA ITS 2025 - PP Matholi'ul Anwar
 
