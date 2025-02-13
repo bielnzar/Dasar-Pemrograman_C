@@ -1,5 +1,7 @@
-# Dasar Pemrograman Bahasa C
+### Selamat datang di repository Modul Pembelajaran Abdi Pesantren CSSMoRA ITS 2025 
 
-Abdi Pesantren CSSMoRA ITS 2025 - PP Matholi'ul Anwar
+### Dasar Pemrograman Bahasa C
 
-## Materi Under Construction
+### Pon Pes Matholi'ul Anwar Lamongan
+
+#### Untuk mengakses modul, silakan klik di [sini](https://github.com/bielnzar/Dasar-Pemrograman_C/wiki).
